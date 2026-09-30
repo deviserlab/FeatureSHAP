@@ -59,11 +59,12 @@ print(shapley_values)
 
 ## Citation
 ```bibtex
-@article{vitale2025toward,
-  title={Toward Explaining Large Language Models in Software Engineering Tasks},
+@article{vitale2026toward,
+  title={Toward explaining large language models in software engineering tasks},
   author={Vitale, Antonio and Nguyen, Khai-Nguyen and Poshyvanyk, Denys and Oliveto, Rocco and Scalabrino, Simone and Mastropaolo, Antonio},
-  journal={arXiv preprint arXiv:2512.20328},
-  year={2025}
+  journal={ACM Transactions on Software Engineering and Methodology},
+  year={2026},
+  publisher={ACM New York, NY}
 }
 ```
 
